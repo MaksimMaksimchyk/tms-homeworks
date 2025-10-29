@@ -6,7 +6,7 @@
 [homeworks-kotlin-basics](https://github.com/MaksimMaksimchyk/homeworks-kotlin-basics)
 
 
-### Занятия № 15 - 16:
+### Занятия № 16 - 17:
 Введение в Android: 1 и 2 часть.
 Жизненный цикл Activity, Manifest, Context, Основные компоненты Android-приложения.  
 Темы и стили, Resources, Локализация, Базовые Layout, Базовые View.  
