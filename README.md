@@ -15,5 +15,5 @@
 
 ### Занятие № 18:
 Введение в Android. 3 часть.
-Intent, ЖЦ Fragment, Fragment Manager, NavController, NavGraph, передача данных между фрагментами.
+Intent, ЖЦ Fragment, Fragment Manager, NavController, NavGraph, передача данных между фрагментами.  
 [homework-18](https://github.com/MaksimMaksimchyk/homework-18)
