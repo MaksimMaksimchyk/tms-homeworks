@@ -7,13 +7,20 @@
 
 
 ### Занятия № 16 - 17:
-Введение в Android: 1 и 2 часть.
+Введение в Android: 1 и 2 часть.  
 Жизненный цикл Activity, Manifest, Context, Основные компоненты Android-приложения.  
 Темы и стили, Resources, Локализация, Базовые Layout, Базовые View.  
 [homeworks-16-17](https://github.com/MaksimMaksimchyk/homeworks-16-17)
 
 
 ### Занятие № 18:
-Введение в Android. 3 часть.
+Введение в Android. 3 часть.  
 Intent, ЖЦ Fragment, Fragment Manager, NavController, NavGraph, передача данных между фрагментами.  
 [homework-18](https://github.com/MaksimMaksimchyk/homework-18)
+
+### Занятие № 19:
+Введение в Android. 4 часть.  
+DataBinding, ViewBinding, Material Design, ViewPager, Tabs, System bars, обработка Insets.  
+[homework-19](https://github.com/MaksimMaksimchyk/homework-19)
+
+
