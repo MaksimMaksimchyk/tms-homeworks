@@ -23,4 +23,10 @@ Intent, ЖЦ Fragment, Fragment Manager, NavController, NavGraph, передач
 DataBinding, ViewBinding, Material Design, ViewPager, Tabs, System bars, обработка Insets.  
 [homework-19](https://github.com/MaksimMaksimchyk/homework-19)
 
+### Занятие № 20:
+Начало работы со списками/  
+ListView, RecyclerView, ScrollView, NestedScrollView.  
+[homework-20](https://github.com/MaksimMaksimchyk/homework-20)
+
+
 
