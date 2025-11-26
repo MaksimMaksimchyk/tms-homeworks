@@ -37,4 +37,8 @@ ListView, RecyclerView, ScrollView, NestedScrollView.
 Обработка нажатия на элемент RecyclerView, Эффективное обновление списка, RecyclerView Multiple Types.  
 [homework-21](https://github.com/MaksimMaksimchyk/homework-21)
 
+### Занятие № 22:
+Архитектура приложения  
+MVVM/P/C/I, MVVM + LiveData, Clean architecture.  
+[homework-22](https://github.com/MaksimMaksimchyk/homework-22)
 
