@@ -42,3 +42,8 @@ ListView, RecyclerView, ScrollView, NestedScrollView.
 MVVM/P/C/I, MVVM + LiveData, Clean architecture.  
 [homework-22](https://github.com/MaksimMaksimchyk/homework-22)
 
+### Занятие № 23:
+Основные принципы программирования  
+SOLID, DRY, KISS, YAGNI, Unidirectional data flow
+[homework-23](https://github.com/MaksimMaksimchyk/homework-22)
+
