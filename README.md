@@ -45,7 +45,7 @@ MVVM/P/C/I, MVVM + LiveData, Clean architecture.
 ### Занятие № 23:
 Основные принципы программирования  
 SOLID, DRY, KISS, YAGNI, Unidirectional data flow  
-[homework-23](https://github.com/MaksimMaksimchyk/homework-22)
+[homework-23](https://github.com/MaksimMaksimchyk/homework-23)
 
 ### Занятие № 24:
 Kotlin Coroutines. 1 часть  
