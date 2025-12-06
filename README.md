@@ -52,3 +52,8 @@ Kotlin Coroutines. 1 часть
 Корунтины, suspend функции, запуск корутины, Scopes, withContext, Job, Async/await; launch/join  
 [homework-24](https://github.com/MaksimMaksimchyk/homework-24)
 
+### Занятие № 25:
+Kotlin Coroutines. 2 часть  
+Понятия Observable и Observer, Подписка на события, Холодные и горячие потоки, Flow, SharedFlow, StateFlow, Channel, Combine.
+[homework-25](https://github.com/MaksimMaksimchyk/homework-25)
+
