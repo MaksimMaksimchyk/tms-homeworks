@@ -54,6 +54,6 @@ Kotlin Coroutines. 1 часть
 
 ### Занятие № 25:
 Kotlin Coroutines. 2 часть  
-Понятия Observable и Observer, Подписка на события, Холодные и горячие потоки, Flow, SharedFlow, StateFlow, Channel, Combine.
+Понятия Observable и Observer, Подписка на события, Холодные и горячие потоки, Flow, SharedFlow, StateFlow, Channel, Combine.  
 [homework-25](https://github.com/MaksimMaksimchyk/homework-25)
 
