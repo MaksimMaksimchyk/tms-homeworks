@@ -57,3 +57,8 @@ Kotlin Coroutines. 2 часть
 Понятия Observable и Observer, Подписка на события, Холодные и горячие потоки, Flow, SharedFlow, StateFlow, Channel, Combine.  
 [shopping-app](https://github.com/MaksimMaksimchyk/shopping-app)
 
+### Занятие № 26:
+Network. 1 часть    
+HTTP-протокол. Типы запросов, Заголовки, статусные коды, JSON. Структура, Тело запроса и ответа.  
+[homework-26](https://github.com/MaksimMaksimchyk/homework-26)
+
