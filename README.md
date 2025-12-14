@@ -62,3 +62,13 @@ Network. 1 часть
 HTTP-протокол. Типы запросов, Заголовки, статусные коды, JSON. Структура, Тело запроса и ответа.  
 [homework-26](https://github.com/MaksimMaksimchyk/homework-26)
 
+### Занятие № 27:
+Network. 2 часть      
+Retrofit2, OkHttp, Gson  
+[fake-store](https://github.com/MaksimMaksimchyk/fake-store)
+
+### Занятие № 28:
+Инъекция зависимостей. Начальный уровень.  
+Dependency injection, Dagger Hilt.  
+[fake-store](https://github.com/MaksimMaksimchyk/fake-store)
+
