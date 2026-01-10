@@ -77,3 +77,8 @@ Data Storage
 SharedPreferences, DataStore. Room, SqlIte.  
 [fake-store](https://github.com/MaksimMaksimchyk/fake-store)
 
+### Занятие № 32:
+Создание собственных View    
+Понятие CustomView, Жизненный цикл View, Invalidate/requestLayout, Canvas  
+[fake-store](https://github.com/MaksimMaksimchyk/homework-32)
+
