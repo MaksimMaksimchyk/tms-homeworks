@@ -72,3 +72,8 @@ Retrofit2, OkHttp, Gson
 Dependency injection, Dagger Hilt.  
 [fake-store](https://github.com/MaksimMaksimchyk/fake-store)
 
+### Занятие № 31:
+Data Storage  
+SharedPreferences, DataStore. Room, SqlIte.  
+[fake-store](https://github.com/MaksimMaksimchyk/fake-store)
+
