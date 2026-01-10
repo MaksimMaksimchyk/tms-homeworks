@@ -80,5 +80,5 @@ SharedPreferences, DataStore. Room, SqlIte.
 ### Занятие № 32:
 Создание собственных View    
 Понятие CustomView, Жизненный цикл View, Invalidate/requestLayout, Canvas  
-[fake-store](https://github.com/MaksimMaksimchyk/homework-32)
+[homework-32](https://github.com/MaksimMaksimchyk/homework-32)
 
