@@ -87,3 +87,8 @@ SharedPreferences, DataStore. Room, SqlIte.
 ValueAnimator, Анимирование View  
 [homework-33](https://github.com/MaksimMaksimchyk/homework-33)
 
+### Занятие № 34:
+Продвинутая инъекция зависимостей (Часть 1)    
+Dagger2  
+[fake-store](https://github.com/MaksimMaksimchyk/fake-store)
+
