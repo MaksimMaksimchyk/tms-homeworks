@@ -82,3 +82,8 @@ SharedPreferences, DataStore. Room, SqlIte.
 Понятие CustomView, Жизненный цикл View, Invalidate/requestLayout, Canvas  
 [homework-32](https://github.com/MaksimMaksimchyk/homework-32)
 
+### Занятие № 33:
+Анимирование View  
+ValueAnimator, Анимирование View  
+[homework-33](https://github.com/MaksimMaksimchyk/homework-33)
+
