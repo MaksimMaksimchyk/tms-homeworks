@@ -92,3 +92,8 @@ ValueAnimator, Анимирование View
 Dagger2  
 [fake-store](https://github.com/MaksimMaksimchyk/fake-store)
 
+### Занятие № 35:
+Продвинутая инъекция зависимостей (Часть 2)    
+Dagger2 (BindsInstance, Qualifier, Scope, SubComponent)  
+[fake-store](https://github.com/MaksimMaksimchyk/fake-store)
+
