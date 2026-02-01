@@ -102,6 +102,11 @@ Dagger2 (BindsInstance, Qualifier, Scope, SubComponent)
 Thread, Handler, Main Thread, BroadcastReciever    
 [homework-36](https://github.com/MaksimMaksimchyk/homework-36)
 
+### Занятие № 37:
+Фоновая работа  
+Services, Work Manager     
+[homework-37](https://github.com/MaksimMaksimchyk/homework-37)
+
 ### Занятие № 38:
 Jetpack Compose. 1 часть  
 Базовые контейнеры и компоненты  
