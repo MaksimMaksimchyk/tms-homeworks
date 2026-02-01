@@ -97,6 +97,11 @@ Dagger2
 Dagger2 (BindsInstance, Qualifier, Scope, SubComponent)  
 [fake-store](https://github.com/MaksimMaksimchyk/fake-store)
 
+### Занятие № 36:
+Асинхронная работа в Android, прием сообщений от системы  
+Thread, Handler, Main Thread, BroadcastReciever    
+[homework-36](https://github.com/MaksimMaksimchyk/homework-36)
+
 ### Занятие № 38:
 Jetpack Compose. 1 часть  
 Базовые контейнеры и компоненты  
