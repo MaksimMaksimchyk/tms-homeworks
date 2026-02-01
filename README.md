@@ -97,3 +97,8 @@ Dagger2
 Dagger2 (BindsInstance, Qualifier, Scope, SubComponent)  
 [fake-store](https://github.com/MaksimMaksimchyk/fake-store)
 
+### Занятие № 38:
+Jetpack Compose. 1 часть  
+Базовые контейнеры и компоненты  
+[homework-38](https://github.com/MaksimMaksimchyk/homework-38)
+
