@@ -112,3 +112,10 @@ Jetpack Compose. 1 часть
 Базовые контейнеры и компоненты  
 [homework-38](https://github.com/MaksimMaksimchyk/homework-38)
 
+### Занятие № 39:
+Jetpack Compose. 2 часть  
+Создание своих компонентов, работа со списками, навигация  
+[homework-39](https://github.com/MaksimMaksimchyk/homework-39)
+
+
+
