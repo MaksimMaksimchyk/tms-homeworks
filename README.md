@@ -117,5 +117,10 @@ Jetpack Compose. 2 часть
 Создание своих компонентов, работа со списками, навигация  
 [homework-39](https://github.com/MaksimMaksimchyk/homework-39)
 
+### Занятие № 40:
+Reactive Streams – RxJava2    
+Паттерн Observer, Отличия от корутин, Операторы трансформации, Операторы фильтрации  
+[shopping-app](https://github.com/MaksimMaksimchyk/shopping-app/tree/homework40)
+
 
 
