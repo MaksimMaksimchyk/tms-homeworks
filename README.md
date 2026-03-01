@@ -122,5 +122,11 @@ Reactive Streams – RxJava2
 Паттерн Observer, Отличия от корутин, Операторы трансформации, Операторы фильтрации  
 [shopping-app](https://github.com/MaksimMaksimchyk/shopping-app/tree/homework40)
 
+### Занятие № 41:
+Определение геопозиции устройства, GoogleMaps, Firebase     
+GoogleMaps Api, Fused Location Provider Api, Points of interest, Firebase  
+[homework-41](https://github.com/MaksimMaksimchyk/homework-41)
+
+
 
 
